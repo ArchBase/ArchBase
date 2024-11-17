@@ -1,136 +1,175 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Akshay A Portfolio</title>
+    <title>Akshay A - Portfolio</title>
     <style>
-        body {
-            font-family: 'Arial', sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
+            box-sizing: border-box;
         }
-        header {
-            background-color: #0073e6;
-            color: #fff;
-            padding: 20px 10%;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-        header p {
-            font-size: 1rem;
-            margin: 5px 0;
-        }
-        main {
-            margin: 20px 10%;
-        }
-        section {
-            margin-bottom: 40px;
-        }
-        h2 {
-            color: #0073e6;
-            margin-bottom: 10px;
-            border-bottom: 2px solid #0073e6;
-            display: inline-block;
-        }
-        p {
-            margin: 5px 0;
+
+        body {
+            font-family: Arial, sans-serif;
             line-height: 1.6;
         }
-        .skills, .experience, .projects, .social-media, .education, .awards {
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
+
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
         }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #444;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.8rem 1.5rem;
+            transition: background 0.3s;
+        }
+
+        nav a:hover {
+            background: #555;
+        }
+
+        section {
+            display: none;
+            padding: 2rem;
+        }
+
+        section.active {
+            display: block;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        h1 {
+            margin-bottom: 1rem;
+            color: #444;
+        }
+
         ul {
-            margin: 10px 0 0;
-            padding-left: 20px;
+            list-style: none;
+            padding-left: 1rem;
         }
+
         ul li {
-            margin-bottom: 5px;
+            margin: 0.5rem 0;
         }
-        .contact {
-            font-weight: bold;
-            margin-top: 20px;
-        }
-        .links a {
-            color: #0073e6;
+
+        a.link {
+            color: #007BFF;
             text-decoration: none;
         }
-        .links a:hover {
+
+        a.link:hover {
             text-decoration: underline;
         }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: #fff;
+            margin-top: 2rem;
+        }
     </style>
+    <script>
+        function showSection(id) {
+            document.querySelectorAll('section').forEach(section => section.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+        }
+    </script>
 </head>
+
 <body>
     <header>
-        <h1>Akshay A</h1>
-        <p>Engineering Student, College of Engineering, Thalassery, Kannur, Kerala</p>
-        <p>Email: <a href="mailto:akshay65557@gmail.com" style="color: #fff;">akshay65557@gmail.com</a></p>
+        <h1>Akshay A - Portfolio</h1>
     </header>
+    <nav>
+        <a href="#" onclick="showSection('about')">About</a>
+        <a href="#" onclick="showSection('skills')">Skills</a>
+        <a href="#" onclick="showSection('projects')">Projects</a>
+        <a href="#" onclick="showSection('social')">Social Media</a>
+        <a href="#" onclick="showSection('education')">Education</a>
+        <a href="#" onclick="showSection('awards')">Awards</a>
+    </nav>
 
-    <main>
-        <section class="skills">
-            <h2>Skills</h2>
-            <p>Problem Solving, Coding, Game Development, Software Development, AI (ML, RL, NLP, CV)</p>
+    <div class="container">
+        <section id="about" class="active">
+            <h2>About Me</h2>
+            <p><strong>Name:</strong> Akshay A</p>
+            <p><strong>Role:</strong> Engineering Student</p>
+            <p><strong>College:</strong> College of Engineering, Thalassery</p>
+            <p><strong>Location:</strong> Kannur, Kerala</p>
+            <p><strong>Email:</strong> <a class="link" href="mailto:akshay65557@gmail.com">akshay65557@gmail.com</a></p>
         </section>
 
-        <section class="experience">
-            <h2>Experience</h2>
-            <p>Projects:</p>
+        <section id="skills">
+            <h2>Skills</h2>
             <ul>
-                <li>Games (3D & 2D): <a href="https://itch.io" class="links">Visit my games</a></li>
-                <ul>
-                    <li>Assault Auto</li>
-                    <li>Operation Dark Drive</li>
-                    <li>Exchange Ventures: Profit Pursuit</li>
-                </ul>
-                <li>Reinforcement Learning Project: <a href="https://itch.io" class="links">Visit itch.io</a></li>
-                <li>Artificial Intelligence:</li>
-                <ul>
-                    <li>Neural Network Implementation: <a href="https://github.com" class="links">Visit GitHub</a></li>
-                    <li>Custom ML Model Optimizer: <a href="https://github.com" class="links">Visit GitHub</a></li>
-                    <li>Model Implementation of Custom Optimizer: <a href="https://github.com" class="links">Visit GitHub</a></li>
-                    <li>Computer Vision Windows Security Software: <a href="https://github.com" class="links">Visit GitHub</a></li>
-                </ul>
-                <li>Other Projects (Unpublished):</li>
-                <ul>
-                    <li>OS Development (Bootloader Design)</li>
-                    <li>Computer Vision (Mouse Gesture Control)</li>
-                    <li>Remote Linux Terminal Software (Hacking)</li>
-                </ul>
+                <li>Problem solving</li>
+                <li>Coding</li>
+                <li>Game Development</li>
+                <li>Software Development</li>
+                <li>Artificial Intelligence (ML, RL, NLP, CV)</li>
             </ul>
         </section>
 
-        <section class="social-media">
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Games (3D & 2D):</strong> <a class="link" href="https://itch.io" target="_blank">itch.io</a></li>
+                <li>Assault Auto</li>
+                <li>Operation Dark Drive</li>
+                <li>Exchange Ventures: Profit Pursuit</li>
+                <li><strong>Reinforcement Learning:</strong> <a class="link" href="https://itch.io" target="_blank">itch.io</a></li>
+                <li><strong>Neural Network Implementation:</strong> <a class="link" href="https://github.com" target="_blank">GitHub</a></li>
+                <li><strong>Custom ML Model Optimizer:</strong> <a class="link" href="https://github.com" target="_blank">GitHub</a></li>
+                <li><strong>Computer Vision Security Software:</strong> <a class="link" href="https://github.com" target="_blank">GitHub</a></li>
+            </ul>
+        </section>
+
+        <section id="social">
             <h2>Social Media</h2>
             <ul>
-                <li>Motivational Shorts: <a href="https://youtube.com/Mission_UR_Success" class="links">Mission_UR_Success</a></li>
-                <li>Music Edit Shorts: <a href="https://youtube.com/OneWaveMindScience" class="links">OneWave MindScience</a></li>
-                <li>Game Dev/Gaming: <a href="https://youtube.com/ProjectUnplayed" class="links">Project Unplayed</a></li>
-                <li>Gaming Channel: <a href="https://youtube.com/SuperuserGaming" class="links">SUperuser Gaming</a></li>
+                <li><strong>Motivational Shorts:</strong> <a class="link" href="https://youtube.com" target="_blank">Mission_UR_Success</a></li>
+                <li><strong>Music Edit Shorts:</strong> <a class="link" href="https://youtube.com" target="_blank">OneWave MindScience</a></li>
+                <li><strong>Game Dev/Gaming:</strong> <a class="link" href="https://youtube.com" target="_blank">Project Unplayed</a></li>
+                <li><strong>Gaming:</strong> <a class="link" href="https://youtube.com" target="_blank">SUperuser Gaming</a></li>
             </ul>
         </section>
 
-        <section class="education">
+        <section id="education">
             <h2>Education</h2>
-            <p>College of Engineering, Thalassery - Degree (2022-2026, Ongoing)</p>
+            <p>College of Engineering, Thalassery</p>
+            <p><strong>Duration:</strong> 2022 - 2026 (Ongoing)</p>
         </section>
 
-        <section class="awards">
+        <section id="awards">
             <h2>Awards</h2>
-            <p>Eureka Idea Pitching Contest - 1st Prize Winner (Team)</p>
+            <ul>
+                <li>Eureka Idea Pitching Contest - 1st Prize Winner Team</li>
+            </ul>
         </section>
-    </main>
+    </div>
 
     <footer>
-        <p class="contact">Feel free to reach out via email or visit my projects!</p>
+        <p>&copy; 2024 Akshay A. All rights reserved.</p>
     </footer>
 </body>
+
 </html>
