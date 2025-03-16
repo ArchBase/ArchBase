@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 - **Other AI & ML Experiments**: Exploring different applications of AI in creative fields.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=archbase&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archbase&layout=compact&theme=radical)
 
 ## 🌱 What I'm Learning
 - Advanced AI/ML techniques
