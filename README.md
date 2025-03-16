@@ -3,8 +3,10 @@ Developer full time👩‍💻, Gamer part time🎮, Youtuber no time▶️
 More about me:
   I am a student at College of Engineering, Thalassery😊
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=archbase&show_icons=true&theme=tokyonight)
+
+
 🔗 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 
