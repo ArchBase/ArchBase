@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## 🚀 About Me
 - 🎓 B.Tech Computer Science Student
-- 💡 Founder of [BitWattr](https://github.com/BitWattr) – an AI research startup
+- 💡 Founder of [BitWattr](https://bitwattr.github.io/Home/) – an AI research startup
 - 🔬 Focused on AI, deep learning, and 3D asset generation
 - 🎮 Game developer using Godot
 - 🖥️ Open-source enthusiast
@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 ## 📫 Connect With Me
 - GitHub: [@your-username](https://github.com/your-username)
 - Twitter: [@your-handle](https://twitter.com/your-handle)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/akshay-a-b5790326b/)
 
 🚀 Let's build something amazing together!
