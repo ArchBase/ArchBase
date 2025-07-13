@@ -1,32 +1,41 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer exploring the world of AI, game development, and innovative projects. I love working on creative solutions and building cutting-edge applications.
+Welcome to my GitHub profile! I'm a passionate developer exploring the exciting realms of AI, game development, and innovative projects. I thrive on creating creative solutions and building cutting-edge applications.
 
 ## 🚀 About Me
 - 🎓 B.Tech Computer Science Student
-- 💡 Founder of [BitWattr](https://bitwattr.pages.dev) – an AI research startup
-- 🔬 Focused on AI, deep learning, and 3D asset generation
-- 🎮 Game developer using Godot
-- 🖥️ Open-source enthusiast
+- 💡 Co-founder & CTO at [BitWattr](https://bitwattr.pages.dev) – an AI research startup
+- 🔬 Focused on AI, deep learning, 3D asset generation, and intelligent systems.
+- 🎮 Game developer passionate about creating immersive experiences with Godot.
+- 🖥️ Enthusiastic about open-source contributions and community collaboration.
 
 ## 🔥 Projects
-- **[Game Development Portfolio](https://archbase.itch.io/)** – My published games (made in Godot & Blender)
-- **3D Asset Generation AI**: Converts low-poly models into high-poly realistic assets using deep learning.
-- **AI-Based Online Exam Management Web App**: Uses AI/LLMs for automatic evaluation of descriptive answers.
-- **Other AI & ML Experiments**: Exploring creative applications of AI.
+
+Here are some highlights of my work:
+
+- **[AI Personality Mimicry](https://bitwattr.pages.dev/projects/chat-mimicry-ai)**: Developing advanced AI models to accurately mimic distinct conversational styles and personalities.
+- **[Game Development Portfolio](https://archbase.itch.io/)** – Explore my published games and interactive experiences developed using Godot & Blender.
+- **3D Asset Generation AI** (Ongoing) : Developing a deep learning-powered system to transform low-poly models into high-fidelity, realistic 3D assets.
+- **AI-Based Online Exam Management Web App** (Research Project): A web application leveraging AI and Large Language Models (LLMs) for automated evaluation of descriptive answers in online examinations.
+- **Open-Source Contributions**: Actively contributing to various open-source projects, particularly in the AI and game development domains.
+- **Other AI & ML Experiments**: Constantly exploring and experimenting with creative applications of artificial intelligence and machine learning.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=archbase&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archbase&layout=compact&theme=radical)
 
-## 🌱 What I'm Learning
-- Advanced AI/ML techniques
-- Compiler design & computer graphics
-- Enhancing 3D asset generation with better topology handling
+These stats provide a snapshot of my activity and preferred languages:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=archbase&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archbase&layout=compact&theme=radical&hide_title=true)
 
 ## 📫 Connect With Me
-- GitHub: [@archbase](https://github.com/archbase)
-- Twitter: [@your-handle](https://twitter.com/your-handle)
-- LinkedIn: [Akshay A](https://www.linkedin.com/in/akshay-a-b5790326b/)
 
-🚀 Let's build something amazing together!
+Let's connect and build something amazing together!
+
+- GitHub: [@archbase](https://github.com/archbase)
+- Twitter: [@_akshay_a](https://twitter.com/_akshay_a) (Update this with your actual Twitter handle!)
+- LinkedIn: [Akshay A](https://www.linkedin.com/in/akshay-a-b5790326b/)
+- Personal Website/Portfolio: [Your Website Link Here (if you have one)]
+
+---
+
+_Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!_
