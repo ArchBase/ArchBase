@@ -17,7 +17,7 @@ Here are some highlights of my work:
 - **[AI Personality Mimicry](https://bitwattr.pages.dev/projects/chat-mimicry-ai)**: Developing advanced AI models to accurately mimic distinct conversational styles and personalities.
 - **[Game Development Portfolio](https://archbase.itch.io/)** – Explore my published games and interactive experiences developed using Godot & Blender.
 - **[3D Asset Generation AI](https://bitwattr.pages.dev/projects/think-3d)** (Ongoing) : Developing a deep learning-powered system to transform low-poly models into high-fidelity, realistic 3D assets.
-- **AI-Based Online Exam Management Web App** (Research Project): A web application leveraging AI and Large Language Models (LLMs) for automated evaluation of descriptive answers in online examinations.
+- **[AI-Based Online Exam Management Web App (ExamPRO)](https://github.com/ArchBase/ExamPRO)** (Research Project): A web application leveraging AI and Large Language Models (LLMs) for automated evaluation of descriptive answers in online examinations.
 - **Other AI & ML Experiments**: Constantly exploring and experimenting with creative applications of artificial intelligence and machine learning.
 
 ---
