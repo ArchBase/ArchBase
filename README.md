@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the exciting 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,godot,blender,tensorflow,react,git,github,docker,nodejs,deno,php,html,css,js,gdscript," />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,godot,blender,tensorflow,react,git,github,docker,nodejs,deno,php,html,css,js,gdscript,postgres,mysql,firebase,supabase,vscode,vite,androidstudio" />
 </p>
 
 ## 🔥 Projects
