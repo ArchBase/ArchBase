@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## 🚀 About Me
 - 🎓 B.Tech Computer Science Student
-- 💡 Founder of [BitWattr]([https://bitwattr.pages.dev]) – an AI research startup
+- 💡 Founder of [BitWattr](https://bitwattr.pages.dev) – an AI research startup
 - 🔬 Focused on AI, deep learning, and 3D asset generation
 - 🎮 Game developer using Godot
 - 🖥️ Open-source enthusiast
