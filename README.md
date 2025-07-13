@@ -7,18 +7,20 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the exciting 
 - 💡 Co-founder & CTO at [BitWattr](https://bitwattr.pages.dev) – an AI research startup
 - 🔬 Focused on AI, deep learning, 3D asset generation, and intelligent systems.
 - 🎮 Game developer passionate about creating immersive experiences with Godot.
-- 🖥️ Enthusiastic about open-source contributions and community collaboration.
+- 🖥️ Enthusiastic about open-source and community collaboration.
 
 ## 🔥 Projects
 
 Here are some highlights of my work:
 
+- **[NoAI LG](https://bitwattr.pages.dev/projects/noai-lg)**: An innovative project focused on generating meaningful sentences using **pattern-based techniques** instead of neural networks or deep learning.
 - **[AI Personality Mimicry](https://bitwattr.pages.dev/projects/chat-mimicry-ai)**: Developing advanced AI models to accurately mimic distinct conversational styles and personalities.
 - **[Game Development Portfolio](https://archbase.itch.io/)** – Explore my published games and interactive experiences developed using Godot & Blender.
-- **3D Asset Generation AI** (Ongoing) : Developing a deep learning-powered system to transform low-poly models into high-fidelity, realistic 3D assets.
+- **[3D Asset Generation AI](https://bitwattr.pages.dev/projects/think-3d)** (Ongoing) : Developing a deep learning-powered system to transform low-poly models into high-fidelity, realistic 3D assets.
 - **AI-Based Online Exam Management Web App** (Research Project): A web application leveraging AI and Large Language Models (LLMs) for automated evaluation of descriptive answers in online examinations.
-- **Open-Source Contributions**: Actively contributing to various open-source projects, particularly in the AI and game development domains.
 - **Other AI & ML Experiments**: Constantly exploring and experimenting with creative applications of artificial intelligence and machine learning.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -26,6 +28,8 @@ These stats provide a snapshot of my activity and preferred languages:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=archbase&show_icons=true&theme=radical&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archbase&layout=compact&theme=radical&hide_title=true)
+
+---
 
 ## 📫 Connect With Me
 
