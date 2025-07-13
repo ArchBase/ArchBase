@@ -36,8 +36,9 @@ These stats provide a snapshot of my activity and preferred languages:
 Let's connect and build something amazing together!
 
 - GitHub: [@archbase](https://github.com/archbase)
-- Twitter: [@_akshay_a](https://twitter.com/_akshay_a) (Update this with your actual Twitter handle!)
 - LinkedIn: [Akshay A](https://www.linkedin.com/in/akshay-a-b5790326b/)
+- Product Hunt: [@bitwattr](https://www.producthunt.com/@bitwattr)
+- Indie Hackers: [BitWattr](https://www.indiehackers.com/BitWattr)
 - Personal Website/Portfolio: [Your Website Link Here (if you have one)]
 
 ---
