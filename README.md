@@ -46,7 +46,7 @@ Let's connect and build something amazing together!
 - LinkedIn: [Akshay A](https://www.linkedin.com/in/akshay-a-b5790326b/)
 - Product Hunt: [@bitwattr](https://www.producthunt.com/@bitwattr)
 - Indie Hackers: [BitWattr](https://www.indiehackers.com/BitWattr)
-- **Personal Portfolio**: [akshay-bitwattr-portfolio.netlify.app](https://akshay-bitwattr-portfolio.netlify.app/)
+- **Personal Portfolio**: [akshay-bitwattr-portfolio.netlify.app](https://portfolio-akshay.pages.dev/)
 
 ---
 
