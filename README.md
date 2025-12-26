@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the exciting 
 
 ## 🚀 About Me
 - 🎓 B.Tech Computer Science Student
-- 💡 Founder & CTO at [BitWattr](https://bitwattr.pages.dev) – an AI research startup
 - 🔬 Focused on AI, deep learning, 3D asset generation, and intelligent systems.
 - 🎮 Game developer passionate about creating immersive experiences with Godot.
 - 🖥️ Enthusiastic about open-source and community collaboration.
@@ -12,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the exciting 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,godot,blender,tensorflow,react,git,github,docker,nodejs,deno,php,html,css,js,postgres,mysql,firebase,supabase,vscode,vite,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,unity,godot,blender,tensorflow,react,git,github,docker,nodejs,deno,php,html,css,postgres,mysql,firebase,supabase,vscode,vite,androidstudio" />
 </p>
 
 ## 🔥 Projects
